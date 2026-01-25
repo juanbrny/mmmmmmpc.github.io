@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Miguel Pérez Colino - Landing Page"
+title                    : "Miguel Pérez Colino - Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Miguel Pérez Colino"
 description              : "A trivial personal website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mmmmmmpc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mmmmmmpc/mmmmmmpc.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,35 +114,37 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Pérez Colino"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Technology Enthusiast. Open Source Advocate-"
+  avatar           : "/assets/images/miguel_pc-square-mini.jpg"
+  bio              : "Technology Enthusiast. Open Source Advocate."
   location         : "From Madrid to the World"
   email            :
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://mmmmmmpc.github.io"
+      url: "https://mmmmmmpc.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/miguelpc"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/mmmmmmpc"
+      url: "https://twitter.com/mmmmmmpc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/mmmmmmpc"
+      url: "https://github.com/mmmmmmpc"
 
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/miguelpc"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/mmmmmmpc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-  since: "2026"
-
+      url: "https://github.com/mmmmmmpc"
+  since: "1995"
 
 # Reading Files
 include:
