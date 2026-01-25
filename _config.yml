@@ -144,6 +144,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mmmmmmpc"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"  # Font Awesome brand icon
+      url: "https://bsky.app/profile/mmmmmmpc.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmmmmmpc"
