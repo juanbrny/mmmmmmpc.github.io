@@ -79,7 +79,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : "GTM-TS87DSR2" # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification : "q93MIyDXcNuEsxtxtgJAxKkGk7DZn6cGygbo2uOz7A"
@@ -105,9 +105,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "GTM-TS87DSR2"
     anonymize_ip         : # true, false (default)
 
 
@@ -150,7 +150,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmmmmmpc"
-  since: "1995"
+  since: "2026"
 
 # Reading Files
 include:
