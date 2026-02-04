@@ -23,18 +23,18 @@ Our goal was to create a "how-to" guide—a collection of practical, hands-on jo
 
 Writing a book of this scale is never a solo mission. It was a collaborative labor of love, and I was privileged to work with some of the best in the industry:
 
-* **Sergio Ocón Cárdenas:** My fellow co-author. Navigating the depths of SLES 16 with Sergio made the process not only smoother but much more insightful.
-* **Pablo Iranzo Gómez:** A huge thank you to Pablo, who provided vital content and shared his deep technical expertise to ensure we covered the right ground.
-* **Apramit Bhattacharya:** Our editor, who performed the "magic" of making our technical explanations flow beautifully. If the text feels smooth and readable, it’s thanks to Apramit’s keen eye.
-* **Thorsten Kuluk:** Our technical reviewer. Thorsten did a phenomenal job keeping us honest and ensuring every command and configuration was accurate.
-* **Preet Ahuja:** Our marketing liaison, who helped us connect this work with the community and ensured the world knew what we were building.
-* **Miguel Pérez Colino:** Myself :-D
+* **[Sergio Ocón Cárdenas](https://www.linkedin.com/in/sergioocon/):** My fellow co-author. Navigating the depths of SLES 16 with Sergio made the process not only smoother but much more insightful.
+* **[Pablo Iranzo Gómez](https://www.linkedin.com/in/iranzo/):** A huge thank you to Pablo, who provided vital content and shared his deep technical expertise to ensure we covered the right ground.
+* **[Apramit Bhattacharya](https://www.linkedin.com/in/apramit-bhattacharya-223901235/):** Our editor, who performed the "magic" of making our technical explanations flow beautifully. If the text feels smooth and readable, it’s thanks to Apramit’s keen eye.
+* **[Thorsten Kuluk](https://www.linkedin.com/in/thorsten-kukuk/):** Our technical reviewer. Thorsten did a phenomenal job keeping us honest and ensuring every command and configuration was accurate.
+* **[Preet Ahuja](https://www.linkedin.com/in/meetarajani/):** Our marketing liaison, who helped us connect this work with the community and ensured the world knew what we were building.
+* **[Miguel Pérez Colino](https://www.linkedin.com/in/miguelpc/):** Myself :-D
 
 ### Bringing Linux to You
 
-At its core, this book is about empowerment. We believe that Linux shouldn't be intimidating. By breaking down SLES 16 into digestible, practical modules, we hope to help a new generation of users feel at home in the terminal.
+At its core, this book is about empowerment, and the joy of learning technology to make things. We believe that Linux shouldn't be intimidating. By breaking down SLES 16 into digestible, practical modules, we hope to help a new generation of users, and many of seasoned admins that like the "all in a manual" concept, feel at home with the book, and after reading it, also in the terminal.
 
-If you’ve followed my journey here on this blog or on social media, you know how much I value the "human" side of technology. This book is an extension of that philosophy.
+For the ones that know me, you know how much I value the "human" side of technology. This book is intended to be an extension of that philosophy, a practical step.
 
 ### Get Your Copy
 
