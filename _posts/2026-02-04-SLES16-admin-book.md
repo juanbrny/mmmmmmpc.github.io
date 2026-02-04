@@ -1,8 +1,10 @@
 ---
-layout: post
 title: "Bringing Linux Closer: The Journey of the SLES 16 Official Administration Guide"
-date: 2024-05-20 10:00:00 +0200
-categories: [Linux, Open Source, Books]
+date: 2026-02-04
+excerpt: "Ferbuary 04, 2026"
+layout: single
+header:
+tags: [Linux, Open Source, Books]
 ---
 
 There is a specific kind of magic in the open-source world. It’s not just about the code; it’s about the community and the shared mission to make powerful technology accessible to everyone. 
