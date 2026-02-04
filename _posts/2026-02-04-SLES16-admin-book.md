@@ -11,6 +11,8 @@ There is a specific kind of magic in the open-source world. It’s not just abou
 
 It took us several months, immersed in a project that is very close to my heart. On January 7th 2026 we finally were able to share the result: the **"SUSE Linux Enterprise Server 16 Official Administration Guide."**
 
+![Image](../assets/images/2026-02-04-SLES16-admin-book/SLES16-book.cover.jpg)
+
 ### More Than Just a Manual
 
 When we set out to write this book, we didn't want to create another dry, academic reference manual that sits on a shelf gathering dust. We wanted to build a bridge for people coming from other distros, as well as a gate for people entering the Linux world from other corners (Development, Newtorking, Security, Students ...). 
