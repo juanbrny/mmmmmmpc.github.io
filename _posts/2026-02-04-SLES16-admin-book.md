@@ -1,7 +1,7 @@
 ---
 title: "Bringing Linux Closer: The Journey of the SLES 16 Official Administration Guide"
 date: 2026-02-04
-excerpt: "Ferbuary 04, 2026"
+excerpt: "February 04, 2026"
 layout: single
 header:
 tags: [Linux, Open Source, Books]
